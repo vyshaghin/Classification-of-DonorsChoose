@@ -10,8 +10,10 @@ The goal of the competition is to predict whether or not a DonorsChoose.org proj
 Dataset link: https://www.kaggle.com/c/donorschoose-application-screening/overview
 
 Contains files:
-
 NB.ipynb – Naive Bayes on processed data.
+
 DT.ipynb – Decision Tress on processed data.
+
 GBDT.ipynb – Gradient Boosted Trees(XGBoost) on processed data.
+
 LSTM.ipynb - LSTM and Conv1D on processed data.
