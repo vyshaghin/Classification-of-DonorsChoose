@@ -11,10 +11,4 @@ Dataset link: https://www.kaggle.com/c/donorschoose-application-screening/overvi
 
 Contains files:
 
-NB.ipynb – Naive Bayes on processed data.
-
-DT.ipynb – Decision Tress on processed data.
-
-GBDT.ipynb – Gradient Boosted Trees(XGBoost) on processed data.
-
 LSTM.ipynb - LSTM and Conv1D on processed data.
