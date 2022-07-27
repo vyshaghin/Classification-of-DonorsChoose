@@ -11,4 +11,4 @@ Dataset link: https://www.kaggle.com/c/donorschoose-application-screening/overvi
 
 Contains files:
 
-LSTM.ipynb - LSTM and Conv1D on processed data.
+LSTM.pdf - LSTM and Conv1D on processed data.
